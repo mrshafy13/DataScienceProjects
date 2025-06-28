@@ -1,5 +1,6 @@
 # IMDB Movie Reviews Analysis
 ![word cloud](https://miro.medium.com/v2/resize:fit:720/format:webp/1*ICjJyU2x3WjvODecd81ECg.png)
+
 Welcome to my IMDB Movie Reviews Analysis project! This project involves analyzing movie reviews from the IMDB dataset using three different models: Logistic Regression, Decision Tree Classifier, and Random Forest Classifier.
 
 ## Table of Contents
